@@ -1,0 +1,3 @@
+rootProject.name = "Admob Open Ads--DOSTI"
+include ':app'
+include ':Admob_Open_Ads--DOSTI'
